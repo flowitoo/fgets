@@ -6,12 +6,12 @@
 
 <div align="center">
 <h3 align="center">
-
+  About Me
+</h3>
+  
 ```
 I'm learning C & I know python.
 ```
-
-</h3>
 
 </div>
 
