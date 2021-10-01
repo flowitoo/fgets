@@ -31,5 +31,5 @@ I'm learning C & I know python.
 
 <br>
 <div align="center">
-  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/847922912803160104?bg=000001&idleMessage=Currently%20wasting%20time">
+  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/847922912803160104?bg=000001&idleMessage=Currently%20wasting%20time&hideDiscrim=true">
 </div>
