@@ -35,5 +35,5 @@ I'm learning C & I know python.
   <h3 align="center">
     My Discord:
   </h3>
-  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/847922912803160104?bg=000001&idleMessage=Currently%20wasting%20time&hideDiscrim=true">
+  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/847922912803160104?bg=000001&idleMessage=Currently%20wasting%20time">
 </div>
