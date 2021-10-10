@@ -6,7 +6,7 @@
 
 <div align="center">
 <h3 align="center">
-  About Me
+  About Me!
 </h3>
   
 ```
@@ -18,7 +18,7 @@ I'm learning C & I know python.
 ***
 
 <h3 align="center">
-  Statistics
+  Statistics:
 </h3>
 
 <div align="center">
@@ -29,7 +29,11 @@ I'm learning C & I know python.
 </a>
 </div>
 
-<br>
+***
+
 <div align="center">
+  <h3 align="center">
+    My Discord:
+  </h3>
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/847922912803160104?bg=000001&idleMessage=Currently%20wasting%20time&hideDiscrim=true">
 </div>
