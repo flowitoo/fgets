@@ -10,7 +10,7 @@
 </h3>
   
 ```
-I'm learning C & I know python.
+I'm learning C/ASM & I know python.
 ```
 
 </div>
