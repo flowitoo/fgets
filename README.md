@@ -35,5 +35,5 @@ I'm learning C/ASM & I know Python.
   <h3 align="center">
     My Discord:
   </h3>
-  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/847922912803160104?bg=000001&idleMessage=Currently%20wasting%20time">
+  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/847922912803160104?bg=000001&idleMessage=Not%20studying%20at%20the%20moment.">
 </div>
