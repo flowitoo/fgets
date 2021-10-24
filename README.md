@@ -6,7 +6,7 @@
 
 <div align="center">
 <h3 align="center">
-  About Me!
+  About Me:
 </h3>
   
 ```
